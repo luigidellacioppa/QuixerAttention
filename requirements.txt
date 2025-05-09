@@ -1,0 +1,11 @@
+torch==2.3.0
+torchvision==0.18
+torchquantum
+torchtext
+scikit-learn
+datasets
+qiskit<1.0
+qiskit-aer==0.13.3
+qiskit-ibm-provider==0.10.0
+qiskit-ibm-runtime==0.20.0
+qiskit-terra
